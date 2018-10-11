@@ -1,0 +1,12 @@
+body
+{
+background-color: DeepSkyBlue
+}
+{
+font-family:"Georgia";
+font-size: 14px;
+}
+.box {
+border: 1px solid Blue;
+}
+p {color: Black;}
